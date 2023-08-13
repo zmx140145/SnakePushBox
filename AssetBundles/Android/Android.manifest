@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2472365071
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: object
+      Dependencies:
+        Dependency_0: material
+    Info_1:
+      Name: material
+      Dependencies: {}
+    Info_2:
+      Name: ui
+      Dependencies: {}
+    Info_3:
+      Name: json
+      Dependencies: {}

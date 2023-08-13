@@ -1,0 +1,7 @@
+print("Main启动")
+require("InitClass")
+require("ItemData")
+require("PlayerData")
+require("MainPanel")
+require("BagPanel")
+MainPanel:ShowMe()

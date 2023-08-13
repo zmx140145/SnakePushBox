@@ -1,0 +1,4 @@
+repository "SnakePushBox@zmx140145@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"

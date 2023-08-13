@@ -1,0 +1,7 @@
+[
+{"id":1,"name":"弓箭","icon":"icon_0","type":1,"tips":"远程攻击"},
+{"id":2,"name":"拳套","icon":"icon_1","type":1,"tips":"攻击加持"},
+{"id":3,"name":"药水","icon":"icon_2","type":2,"tips":"治疗效果"},
+{"id":4,"name":"灵根","icon":"icon_3","type":3,"tips":"炼丹材料"},
+{"id":5,"name":"木材","icon":"icon_4","type":3,"tips":"建筑材料"}
+]
